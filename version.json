@@ -1,8 +1,8 @@
 {
-  "appVersionCode": 2,
-  "appVersionName": "1.1",
-  "apkUrl": "https://github.com/yowrenn99/kids-english-updates/releases/download/v1.1/app-debug.apk",
-  "releaseNotes": "新增線上更新、單一單元刪除、全部隨機測驗與計時功能",
+  "appVersionCode": 3,
+  "appVersionName": "1.2",
+  "apkUrl": "https://github.com/yowrenn99/kids-english-updates/releases/download/v1.2/app-debug.apk",
+  "releaseNotes": "更新至 v1.2",
   "booksVersion": 1,
   "booksUrl": "https://raw.githubusercontent.com/yowrenn99/kids-english-updates/main/bundled_books.json"
 }

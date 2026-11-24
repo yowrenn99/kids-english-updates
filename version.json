@@ -1,8 +1,8 @@
 {
-  "appVersionCode": 6,
-  "appVersionName": "1.5",
-  "apkUrl": "https:\/\/github.com\/yowrenn99\/kids-english-updates\/releases\/download\/v1.5\/app-debug.apk",
-  "releaseNotes": "更新至 v1.5",
+  "appVersionCode": 8,
+  "appVersionName": "1.7",
+  "apkUrl": "https://github.com/yowrenn99/kids-english-updates/releases/download/v1.7/app-release.apk",
+  "releaseNotes": "更新至 v1.7",
   "booksVersion": 8,
-  "booksUrl": "https:\/\/raw.githubusercontent.com\/yowrenn99\/kids-english-updates\/main\/bundled_books.json"
+  "booksUrl": "https://raw.githubusercontent.com/yowrenn99/kids-english-updates/main/bundled_books.json"
 }

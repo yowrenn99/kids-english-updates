@@ -3,6 +3,6 @@
   "appVersionName": "1.9",
   "apkUrl": "https:\/\/github.com\/yowrenn99\/kids-english-updates\/releases\/download\/v1.9\/app-release.apk",
   "releaseNotes": "更新至 v1.9",
-  "booksVersion": 30,
+  "booksVersion": 31,
   "booksUrl": "https:\/\/raw.githubusercontent.com\/yowrenn99\/kids-english-updates\/main\/bundled_books.json"
 }
